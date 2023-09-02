@@ -1,2 +1,2 @@
 # ds-jobs-regression
-Quick and dirty linear regression of public jobs data
+This is a warm up exercise for myself to pull data from an API
